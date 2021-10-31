@@ -6,6 +6,9 @@ class App extends Component {
   
   // Nothing needs to change here! 
   // Make note of what prop we are initially passing to `ColorBox` below!
+  // 1st create a comment component from scratch
+  // and then add a few things to the ColorBox component
+  // make the Comment and ColorBox components behave dynamically
   
   render() {
     return (
